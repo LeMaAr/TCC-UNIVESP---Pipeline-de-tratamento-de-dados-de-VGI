@@ -1,0 +1,454 @@
+id,bird_id,bird_name,timestamp,latitude,longitude,season
+1,4,Capitão-de-saíra,2026-04-10 12:35:07.417647,,,autumn
+2,5,Saíra-militar,2026-04-10 12:35:09.635593,,,autumn
+3,0,"PDF Generated: 2 birds (Capitão-de-saíra, Saíra-militar)",2026-04-10 12:35:13.205104,,,autumn
+4,20,Sabiá-barranco,2026-04-10 12:35:42.982625,,,autumn
+5,21,Tangará,2026-04-10 12:35:46.765183,,,autumn
+6,0,"PDF Generated: 4 birds (Capitão-de-saíra, Saíra-militar, Sabiá-barranco, Tangará)",2026-04-10 12:35:50.001519,,,autumn
+7,1,Saí-verde,2026-04-10 13:43:56.232023,,,autumn
+8,3,Saíra-sete-cores,2026-04-10 13:44:00.757605,,,autumn
+9,8,Sanhaço-de-encontro-azul,2026-04-10 13:44:04.359325,,,autumn
+10,9,Sanhaço-cinzento,2026-04-10 13:44:07.613147,,,autumn
+11,10,Ferro-velho,2026-04-10 13:44:11.237128,,,autumn
+12,11,Tiê-sangue,2026-04-10 13:44:12.496531,,,autumn
+13,15,Catirumbava,2026-04-10 13:44:15.903092,,,autumn
+14,16,Sabiá-laranjeira,2026-04-10 13:44:19.779693,,,autumn
+15,14,Tiê-de-topete,2026-04-10 13:44:22.417993,,,autumn
+16,26,Tiriba-de-testa-vermelha,2026-04-10 13:44:37.246338,,,autumn
+17,35,Cambacica,2026-04-10 13:44:48.055923,,,autumn
+18,61,Beija flor balança rabo do bico torto,2026-04-10 13:45:07.49669,,,autumn
+19,0,"PDF Generated: 11 birds (Saí-verde, Saíra-sete-cores, Sanhaço-cinzento, Ferro-velho, Tiê-sangue, Tiê-de-topete, Catirumbava, Sabiá-laranjeira, Tiriba-de-testa-vermelha, Cambacica, Beija flor balança rabo do bico torto)",2026-04-10 13:45:22.653518,,,autumn
+20,11,Tiê-sangue,2026-04-16 14:20:57.507989,-23.53356,-46.672714,autumn
+21,0,PDF Generated: 1 birds (Tiê-sangue),2026-04-16 14:21:04.696815,-23.53356,-46.672714,autumn
+22,0,PDF Generated: 1 birds (Tiê-sangue),2026-04-16 14:21:11.137352,-23.53356,-46.672714,autumn
+23,1,Saí-verde,2026-04-17 18:57:52.401184,-23.826672,-45.34182,autumn
+24,24,Surucuá-variado,2026-04-17 18:58:16.314045,-23.826672,-45.34182,autumn
+25,0,PDF Generated: 1 birds (Surucuá-variado),2026-04-17 18:58:22.641978,-23.826672,-45.34182,autumn
+26,24,Surucuá-variado,2026-04-17 18:59:30.016375,-23.826672,-45.34182,autumn
+27,0,PDF Generated: 1 birds (Surucuá-variado),2026-04-17 18:59:47.498203,,,autumn
+28,2,Saí-azul,2026-04-20 15:22:11.039035,,,autumn
+29,3,Saíra-sete-cores,2026-04-20 15:22:18.504383,,,autumn
+30,24,Surucuá-variado,2026-04-20 15:22:31.146778,,,autumn
+31,0,"PDF Generated: 3 birds (Saí-azul, Saíra-sete-cores, Surucuá-variado)",2026-04-20 15:22:40.231053,,,autumn
+32,5,Saíra-militar,2026-04-20 15:23:28.214664,,,autumn
+33,10,Ferro-velho,2026-04-20 15:23:37.012727,,,autumn
+34,3,Saíra-sete-cores,2026-04-20 17:08:19.474844,,,autumn
+35,2,Saí-azul,2026-04-20 17:08:21.722892,,,autumn
+36,15,Catirumbava,2026-04-20 17:08:47.614492,,,autumn
+37,16,Sabiá-laranjeira,2026-04-20 17:08:52.289362,,,autumn
+38,40,João velho,2026-04-20 19:56:17.465366,,,autumn
+39,60,Beija flor rajado,2026-04-20 19:56:54.25975,,,autumn
+40,57,Gavião carijó,2026-04-20 19:58:20.182402,,,autumn
+41,24,Surucuá-variado,2026-04-20 19:58:33.193368,,,autumn
+42,0,"PDF Generated: 4 birds (Surucuá-variado, João velho, Gavião carijó, Beija flor rajado)",2026-04-20 20:04:35.982209,,,autumn
+43,2,Saí-azul,2026-04-21 14:52:06.820899,,,autumn
+44,3,Saíra-sete-cores,2026-04-21 14:52:09.846901,,,autumn
+45,16,Sabiá-laranjeira,2026-04-21 14:52:21.863706,,,autumn
+46,18,Sabiá-coleira,2026-04-21 14:52:27.525405,,,autumn
+47,25,Surucuá-de-barriga-amarela,2026-04-21 14:52:38.259858,,,autumn
+48,55,Pula-pula,2026-04-21 14:53:05.034129,,,autumn
+49,0,"PDF Generated: 6 birds (Saí-azul, Saíra-sete-cores, Sabiá-laranjeira, Sabiá-coleira, Surucuá-de-barriga-amarela, Pula-pula)",2026-04-21 14:53:32.803687,,,autumn
+50,0,"PDF Generated: 6 birds (Saí-azul, Saíra-sete-cores, Sabiá-laranjeira, Sabiá-coleira, Surucuá-de-barriga-amarela, Pula-pula)",2026-04-21 14:53:43.970459,,,autumn
+51,0,"PDF Generated: 6 birds (Saí-azul, Saíra-sete-cores, Sabiá-laranjeira, Sabiá-coleira, Surucuá-de-barriga-amarela, Pula-pula)",2026-04-21 14:54:44.501177,,,autumn
+52,6,Sanhaço-do-coqueiro,2026-04-21 14:55:31.371074,,,autumn
+53,11,Tiê-sangue,2026-04-21 14:55:43.001715,,,autumn
+54,3,Saíra-sete-cores,2026-04-21 16:48:04.691957,,,autumn
+55,8,Sanhaço-de-encontro-azul,2026-04-21 18:42:06.396545,-23.827757,-45.34766,autumn
+56,4,Capitão-de-saíra,2026-04-22 00:37:40.81682,,,autumn
+57,3,Saíra-sete-cores,2026-04-22 00:37:58.40357,,,autumn
+58,8,Sanhaço-de-encontro-azul,2026-04-22 00:38:35.284931,,,autumn
+59,11,Tiê-sangue,2026-04-22 00:38:41.659905,,,autumn
+60,15,Catirumbava,2026-04-22 00:38:53.746178,,,autumn
+61,28,Papagaio-moleiro,2026-04-22 00:39:17.79575,,,autumn
+62,31,Bem-te-vi,2026-04-22 00:39:31.899951,,,autumn
+63,40,João velho,2026-04-22 00:40:19.500562,,,autumn
+64,44,Macuco,2026-04-22 00:40:43.888147,,,autumn
+65,62,Beija flor fronte violeta,2026-04-22 00:41:15.740272,,,autumn
+66,65,Beija flor preto,2026-04-22 00:41:24.590416,,,autumn
+67,68,Beija flor topetinho verde,2026-04-22 00:41:45.745347,,,autumn
+68,70,Tucano bico verde,2026-04-22 00:41:50.420873,,,autumn
+69,66,Beija flor tesoura,2026-04-22 00:42:19.11377,,,autumn
+70,1,Saí-verde,2026-04-22 00:53:05.46336,-23.826895,-45.342083,autumn
+71,2,Saí-azul,2026-04-22 00:53:09.1261,-23.826895,-45.342083,autumn
+72,3,Saíra-sete-cores,2026-04-22 00:53:12.055949,-23.826895,-45.342083,autumn
+73,5,Saíra-militar,2026-04-22 00:53:16.904088,-23.826895,-45.342083,autumn
+74,8,Sanhaço-de-encontro-azul,2026-04-22 00:53:21.917645,-23.826895,-45.342083,autumn
+75,1,Saí-verde,2026-04-22 10:52:14.76255,-23.82657,-45.341785,autumn
+76,3,Saíra-sete-cores,2026-04-22 10:52:20.025317,-23.82657,-45.341785,autumn
+77,5,Saíra-militar,2026-04-22 10:52:36.20661,-23.82657,-45.341785,autumn
+78,10,Ferro-velho,2026-04-22 10:52:41.080464,-23.82657,-45.341785,autumn
+79,11,Tiê-sangue,2026-04-22 10:52:43.523252,-23.82657,-45.341785,autumn
+80,12,Tiê-preto,2026-04-22 10:52:46.620909,-23.82657,-45.341785,autumn
+81,14,Tiê-de-topete,2026-04-22 10:52:50.983141,-23.82657,-45.341785,autumn
+82,9,Sanhaço-cinzento,2026-04-22 10:52:57.361531,-23.82657,-45.341785,autumn
+83,8,Sanhaço-de-encontro-azul,2026-04-22 10:53:00.136653,-23.82657,-45.341785,autumn
+84,16,Sabiá-laranjeira,2026-04-22 10:53:16.216139,-23.82657,-45.341785,autumn
+85,15,Catirumbava,2026-04-22 10:53:19.137865,-23.82657,-45.341785,autumn
+86,21,Tangará,2026-04-22 10:53:28.68435,-23.82657,-45.341785,autumn
+87,24,Surucuá-variado,2026-04-22 10:53:43.052954,-23.82657,-45.341785,autumn
+88,25,Surucuá-de-barriga-amarela,2026-04-22 10:53:48.396425,-23.82657,-45.341785,autumn
+89,26,Tiriba-de-testa-vermelha,2026-04-22 10:53:54.679617,-23.82657,-45.341785,autumn
+90,29,Canário-da-terra,2026-04-22 10:54:08.292482,-23.82657,-45.341785,autumn
+91,35,Cambacica,2026-04-22 10:54:23.299324,-23.82657,-45.341785,autumn
+92,39,Pica-pau-rei,2026-04-22 10:54:36.545551,-23.82657,-45.341785,autumn
+93,40,João velho,2026-04-22 10:54:47.120503,-23.82657,-45.341785,autumn
+94,45,Jacutinga,2026-04-22 10:55:06.417725,-23.82657,-45.341785,autumn
+95,33,Bentevizinho-de-penacho-vermelho,2026-04-23 13:37:01.429392,-23.56149,-45.297886,autumn
+96,17,Sabiá-una,2026-04-23 15:03:23.017895,-23.82661,-45.34174,autumn
+97,7,Sanhaço-de-encontro-amarelo,2026-04-23 22:11:54.83068,-23.206442,-45.899036,autumn
+98,1,Saí-verde,2026-04-28 14:01:18.069314,-23.822332,-45.43348,autumn
+99,2,Saí-azul,2026-04-28 14:01:24.630947,-23.822332,-45.43348,autumn
+100,3,Saíra-sete-cores,2026-04-28 14:01:28.078873,-23.822332,-45.43348,autumn
+101,4,Capitão-de-saíra,2026-04-28 14:01:29.611814,-23.822332,-45.43348,autumn
+102,5,Saíra-militar,2026-04-28 14:01:33.228271,-23.822332,-45.43348,autumn
+103,8,Sanhaço-de-encontro-azul,2026-04-28 14:01:36.718439,-23.822332,-45.43348,autumn
+104,9,Sanhaço-cinzento,2026-04-28 14:01:40.18242,-23.822332,-45.43348,autumn
+105,10,Ferro-velho,2026-04-28 14:01:42.146309,-23.822332,-45.43348,autumn
+106,11,Tiê-sangue,2026-04-28 14:01:44.156563,-23.822332,-45.43348,autumn
+107,14,Tiê-de-topete,2026-04-28 14:01:47.232995,-23.822332,-45.43348,autumn
+108,15,Catirumbava,2026-04-28 14:01:51.116516,-23.822332,-45.43348,autumn
+109,14,Tiê-de-topete,2026-04-28 14:01:54.591738,-23.822332,-45.43348,autumn
+110,13,Tiê-de-bando,2026-04-28 14:01:56.447232,-23.822332,-45.43348,autumn
+111,16,Sabiá-laranjeira,2026-04-28 14:02:06.776533,-23.822332,-45.43348,autumn
+112,24,Surucuá-variado,2026-04-28 14:02:21.054333,-23.822332,-45.43348,autumn
+113,26,Tiriba-de-testa-vermelha,2026-04-28 14:02:36.210427,-23.822332,-45.43348,autumn
+114,25,Surucuá-de-barriga-amarela,2026-04-28 14:02:42.467333,-23.822332,-45.43348,autumn
+115,29,Canário-da-terra,2026-04-28 14:02:54.437273,-23.822332,-45.43348,autumn
+116,35,Cambacica,2026-04-28 14:03:12.349436,-23.822332,-45.43348,autumn
+117,40,João velho,2026-04-28 14:03:29.356219,-23.822332,-45.43348,autumn
+118,39,Pica-pau-rei,2026-04-28 14:03:38.54141,-23.822332,-45.43348,autumn
+119,45,Jacutinga,2026-04-28 14:03:47.89581,-23.822332,-45.43348,autumn
+120,66,Beija flor tesoura,2026-04-28 14:04:27.143113,-23.822332,-45.43348,autumn
+121,1,Saí-verde,2026-04-29 13:04:36.18019,,,autumn
+122,2,Saí-azul,2026-04-29 13:04:38.66109,,,autumn
+123,3,Saíra-sete-cores,2026-04-29 13:04:43.820798,,,autumn
+124,11,Tiê-sangue,2026-04-29 13:04:57.914483,,,autumn
+125,25,Surucuá-de-barriga-amarela,2026-04-29 13:27:26.168576,,,autumn
+126,2,Saí-azul,2026-04-29 13:28:06.336271,,,autumn
+127,3,Saíra-sete-cores,2026-04-29 13:28:09.409611,,,autumn
+128,5,Saíra-militar,2026-04-29 13:28:16.239479,,,autumn
+129,15,Catirumbava,2026-04-29 13:28:26.031334,,,autumn
+130,16,Sabiá-laranjeira,2026-04-29 13:28:29.947168,,,autumn
+131,18,Sabiá-coleira,2026-04-29 13:28:44.430765,-23.826536,-45.341713,autumn
+132,28,Papagaio-moleiro,2026-04-29 13:29:02.159228,-23.826536,-45.341713,autumn
+133,26,Tiriba-de-testa-vermelha,2026-04-29 13:29:13.195913,-23.826536,-45.341713,autumn
+134,29,Canário-da-terra,2026-04-29 13:29:25.585182,-23.826536,-45.341713,autumn
+135,17,Sabiá-una,2026-05-03 21:52:30.23275,40.236404,-7.521165,autumn
+136,2,Saí-azul,2026-05-03 23:56:36.224524,,,autumn
+137,6,Sanhaço-do-coqueiro,2026-05-04 19:27:24.309349,,,autumn
+138,5,Saíra-militar,2026-05-04 19:29:54.949996,,,autumn
+139,10,Ferro-velho,2026-05-04 19:30:08.858248,,,autumn
+140,4,Capitão-de-saíra,2026-05-04 19:34:34.932385,,,autumn
+141,10,Ferro-velho,2026-05-04 19:34:45.621935,,,autumn
+142,11,Tiê-sangue,2026-05-04 19:34:47.597533,,,autumn
+143,12,Tiê-preto,2026-05-04 19:34:49.686663,,,autumn
+144,1,Saí-azul,2026-05-04 19:34:52.064102,,,autumn
+145,3,Saíra-sete-cores,2026-05-04 19:34:53.330609,,,autumn
+146,8,Sanhaço-de-encontro-azul,2026-05-04 19:34:56.95782,,,autumn
+147,7,Sanhaço-de-encontro-amarelo,2026-05-04 19:34:58.587518,,,autumn
+148,14,Tiê-de-topete,2026-05-04 19:35:09.140079,,,autumn
+149,18,Sabiá-coleira,2026-05-04 19:35:13.728032,,,autumn
+150,24,Surucuá-variado,2026-05-04 19:35:16.606143,,,autumn
+151,16,Sabiá-laranjeira,2026-05-04 19:35:19.473575,,,autumn
+152,15,Catirumbava,2026-05-04 19:35:21.621954,,,autumn
+153,21,Tangará,2026-05-04 19:35:25.584934,,,autumn
+154,20,Sabiá-barranco,2026-05-04 19:35:28.385811,,,autumn
+155,28,Papagaio-moleiro,2026-05-04 19:35:43.199532,,,autumn
+156,26,Tiriba-de-testa-vermelha,2026-05-04 19:35:50.890847,,,autumn
+157,29,Canário-da-terra,2026-05-04 19:35:54.722231,,,autumn
+158,35,Cambacica,2026-05-04 19:36:01.525412,,,autumn
+159,41,Benedito-de-testa-amarela,2026-05-04 19:36:06.42548,,,autumn
+160,40,João velho,2026-05-04 19:36:13.651153,,,autumn
+161,43,Martim-pescador,2026-05-04 19:36:27.146376,,,autumn
+162,60,Beija flor rajado,2026-05-04 19:36:38.386544,,,autumn
+163,62,Beija flor fronte violeta,2026-05-04 19:36:48.915071,,,autumn
+164,69,Araçari poca,2026-05-04 19:36:52.67844,,,autumn
+165,70,Tucano bico verde,2026-05-04 19:36:55.056081,,,autumn
+166,65,Beija flor preto,2026-05-04 19:36:59.178202,,,autumn
+167,66,Beija flor tesoura,2026-05-04 19:37:07.035917,,,autumn
+168,61,Beija flor balança rabo do bico torto,2026-05-04 19:37:16.596307,,,autumn
+169,57,Gavião carijó,2026-05-04 19:37:27.973653,,,autumn
+170,48,Juriti,2026-05-04 19:37:36.837654,,,autumn
+171,44,Macuco,2026-05-04 19:37:49.097629,,,autumn
+172,23,Alma-de-gato,2026-05-04 19:38:05.313954,,,autumn
+173,17,Sabiá-una,2026-05-04 19:38:17.76465,,,autumn
+174,6,Sanhaço-do-coqueiro,2026-05-04 19:38:20.748614,,,autumn
+175,13,Tiê-de-bando,2026-05-04 19:38:24.884499,,,autumn
+176,31,Bem-te-vi,2026-05-04 19:38:46.215041,,,autumn
+177,47,Rolinha,2026-05-04 19:39:05.980102,,,autumn
+178,56,Carcará,2026-05-04 19:39:37.473809,,,autumn
+179,2,Saí-verde,2026-05-04 19:39:43.117442,,,autumn
+180,5,Saíra-militar,2026-05-04 19:39:44.683176,,,autumn
+181,9,Sanhaço-cinzento,2026-05-04 19:39:48.095335,,,autumn
+182,0,"PDF Generated: 42 birds (Saí-azul, Saí-verde, Saíra-sete-cores, Capitão-de-saíra, Saíra-militar, Sanhaço-do-coqueiro, Sanhaço-de-encontro-amarelo, Sanhaço-de-encontro-azul, Sanhaço-cinzento, Ferro-velho, Tiê-sangue, Tiê-preto, Tiê-de-bando, Tiê-de-topete, Catirumbava, Sabiá-laranjeira, Sabiá-una, Sabiá-coleira, Sabiá-barranco, Tangará, Alma-de-gato, Surucuá-variado, Tiriba-de-testa-vermelha, Papagaio-moleiro, Canário-da-terra, Bem-te-vi, Cambacica, João velho, Benedito-de-testa-amarela, Martim-pescador, Macuco, Rolinha, Juriti, Carcará, Gavião carijó, Beija flor rajado, Beija flor balança rabo do bico torto, Beija flor fronte violeta, Beija flor preto, Beija flor tesoura, Araçari poca, Tucano bico verde)",2026-05-04 19:40:27.418187,,,autumn
+183,2,Saí-verde,2026-05-04 19:44:20.424998,,,autumn
+184,9,Sanhaço-cinzento,2026-05-04 19:44:31.415123,,,autumn
+185,21,Tangará,2026-05-04 19:44:42.443274,,,autumn
+186,2,Saí-verde,2026-05-04 19:45:17.792899,,,autumn
+187,11,Tiê-sangue,2026-05-04 19:45:25.265425,,,autumn
+188,3,Saíra-sete-cores,2026-05-04 19:45:50.842974,,,autumn
+189,8,Sanhaço-de-encontro-azul,2026-05-04 19:45:59.801594,,,autumn
+190,18,Sabiá-coleira,2026-05-04 19:46:10.395808,,,autumn
+191,0,"PDF Generated: 42 birds (Saí-azul, Saí-verde, Saíra-sete-cores, Capitão-de-saíra, Saíra-militar, Sanhaço-do-coqueiro, Sanhaço-de-encontro-amarelo, Sanhaço-de-encontro-azul, Sanhaço-cinzento, Ferro-velho, Tiê-sangue, Tiê-preto, Tiê-de-bando, Tiê-de-topete, Catirumbava, Sabiá-laranjeira, Sabiá-una, Sabiá-coleira, Sabiá-barranco, Tangará, Alma-de-gato, Surucuá-variado, Tiriba-de-testa-vermelha, Papagaio-moleiro, Canário-da-terra, Bem-te-vi, Cambacica, João velho, Benedito-de-testa-amarela, Martim-pescador, Macuco, Rolinha, Juriti, Carcará, Gavião carijó, Beija flor rajado, Beija flor balança rabo do bico torto, Beija flor fronte violeta, Beija flor preto, Beija flor tesoura, Araçari poca, Tucano bico verde)",2026-05-04 20:01:06.146018,,,autumn
+192,16,Sabiá-laranjeira,2026-05-04 20:02:04.259146,,,autumn
+193,51,Araponga,2026-05-04 20:02:07.758909,,,autumn
+194,13,Tiê-de-bando,2026-05-04 20:02:11.023942,,,autumn
+195,43,Martim-pescador,2026-05-04 20:02:15.247817,,,autumn
+196,41,Benedito-de-testa-amarela,2026-05-04 20:02:18.469112,,,autumn
+197,44,Macuco,2026-05-04 20:02:22.453651,,,autumn
+198,69,Araçari poca,2026-05-04 20:02:29.761444,,,autumn
+199,11,Tiê-sangue,2026-05-04 20:02:33.442745,,,autumn
+200,0,"PDF Generated: 11 birds (Saíra-sete-cores, Sanhaço-de-encontro-azul, Tiê-sangue, Tiê-de-bando, Sabiá-laranjeira, Sabiá-coleira, Benedito-de-testa-amarela, Martim-pescador, Macuco, Araponga, Araçari poca)",2026-05-04 20:02:38.038572,,,autumn
+201,2,Saí-verde,2026-05-04 20:05:01.044628,,,autumn
+202,9,Sanhaço-cinzento,2026-05-04 20:05:03.329741,,,autumn
+203,11,Tiê-sangue,2026-05-04 20:05:05.592154,,,autumn
+204,13,Tiê-de-bando,2026-05-04 20:05:08.577038,,,autumn
+205,21,Tangará,2026-05-04 20:05:12.026858,,,autumn
+206,24,Surucuá-variado,2026-05-04 20:05:15.816412,,,autumn
+207,25,Surucuá-de-barriga-amarela,2026-05-04 20:05:19.354625,,,autumn
+208,39,Pica-pau-rei,2026-05-04 20:05:25.839942,,,autumn
+209,28,Papagaio-moleiro,2026-05-04 20:05:31.081196,,,autumn
+210,45,Jacutinga,2026-05-04 20:05:36.04771,,,autumn
+211,0,"PDF Generated: 10 birds (Saí-verde, Sanhaço-cinzento, Tiê-sangue, Tiê-de-bando, Tangará, Surucuá-variado, Surucuá-de-barriga-amarela, Papagaio-moleiro, Pica-pau-rei, Jacutinga)",2026-05-04 20:05:39.522767,,,autumn
+212,10,Ferro-velho,2026-05-04 23:10:53.388287,,,autumn
+213,23,Alma-de-gato,2026-05-04 23:10:59.489367,,,autumn
+214,3,Saíra-sete-cores,2026-05-04 23:11:04.213072,,,autumn
+215,3,Saíra-sete-cores,2026-05-04 23:12:02.516465,,,autumn
+216,11,Tiê-sangue,2026-05-04 23:12:08.830317,,,autumn
+217,28,Papagaio-moleiro,2026-05-04 23:12:16.062117,,,autumn
+218,61,Beija flor balança rabo do bico torto,2026-05-04 23:12:24.163176,,,autumn
+219,0,"PDF Generated: 4 birds (Saíra-sete-cores, Tiê-sangue, Papagaio-moleiro, Beija flor balança rabo do bico torto)",2026-05-04 23:12:27.587385,,,autumn
+220,1,Saí-azul,2026-05-05 00:03:00.724395,,,autumn
+221,2,Saí-verde,2026-05-05 00:03:04.358536,,,autumn
+222,5,Saíra-militar,2026-05-06 18:46:55.123977,,,autumn
+223,62,Beija flor fronte violeta,2026-05-14 18:10:01.361385,-23.826576,-45.34173,autumn
+224,67,Beija flor de frente preta,2026-05-16 10:55:06.85866,,,autumn
+225,14,Tiê-de-topete,2026-05-16 10:55:15.668407,,,autumn
+226,1,Saí-azul,2026-05-16 15:20:25.258426,,,autumn
+227,1,Saí-azul,2026-05-16 15:21:40.40514,-23.644587,-46.631557,autumn
+228,2,Saí-verde,2026-05-16 15:21:42.504458,-23.644587,-46.631557,autumn
+229,0,"PDF Generated: 2 birds (Saí-azul, Saí-verde)",2026-05-16 15:21:45.502812,-23.644587,-46.631557,autumn
+230,1,Saí-azul,2026-05-16 16:12:54.581505,,,autumn
+231,2,Saí-verde,2026-05-16 20:06:22.079532,,,autumn
+232,11,Tiê-sangue,2026-05-17 13:00:09.902035,,,autumn
+233,5,Saíra-militar,2026-05-17 13:00:16.108171,,,autumn
+234,1,Saí-azul,2026-05-17 13:46:52.782036,-23.82658,-45.341747,autumn
+235,8,Sanhaço-de-encontro-azul,2026-05-17 13:46:58.211267,-23.82658,-45.341747,autumn
+236,1,Saí-azul,2026-05-17 14:19:24.711317,,,autumn
+237,3,Saíra-sete-cores,2026-05-17 14:36:26.368463,,,autumn
+238,2,Saí-verde,2026-05-17 14:39:20.617905,,,autumn
+239,3,Saíra-sete-cores,2026-05-17 14:39:26.304239,,,autumn
+240,8,Sanhaço-de-encontro-azul,2026-05-17 14:44:56.358796,,,autumn
+241,1,Saí-azul,2026-05-17 14:51:59.713607,,,autumn
+242,2,Saí-verde,2026-05-17 16:29:35.90059,,,autumn
+243,1,Saí-azul,2026-05-17 16:54:55.983247,,,autumn
+244,2,Saí-verde,2026-05-17 17:20:37.162373,,,autumn
+245,24,Surucuá-variado,2026-05-17 17:20:48.743421,,,autumn
+246,2,Saí-verde,2026-05-18 14:10:15.374676,-23.82662,-45.341747,autumn
+247,21,Tangará,2026-05-18 14:11:09.843431,-23.82662,-45.341747,autumn
+248,19,Sabiá-poca,2026-05-18 14:11:12.795479,-23.82662,-45.341747,autumn
+249,0,"PDF Generated: 3 birds (Saí-verde, Sabiá-poca, Tangará)",2026-05-18 14:11:15.567663,-23.82662,-45.341747,autumn
+250,1,Saí-azul,2026-05-19 21:28:24.053711,,,autumn
+251,4,Capitão-de-saíra,2026-05-19 21:28:28.723069,,,autumn
+252,11,Tiê-sangue,2026-05-19 21:28:38.548579,,,autumn
+253,0,"PDF Generated: 3 birds (Saí-azul, Capitão-de-saíra, Tiê-sangue)",2026-05-19 21:28:49.084889,,,autumn
+254,37,Tico-tico,2026-06-10 14:34:48.847708,-23.265623,-45.899803,winter
+255,1,Saí-azul,2026-07-08 18:44:23.211865,-23.82657,-45.34164,winter
+256,2,Saí-verde,2026-07-08 18:44:29.813349,-23.82657,-45.34164,winter
+257,3,Saíra-sete-cores,2026-07-08 18:44:34.581577,-23.82657,-45.34164,winter
+258,4,Capitão-de-saíra,2026-07-08 18:44:42.882733,-23.82657,-45.34164,winter
+259,5,Saíra-militar,2026-07-08 18:44:49.741529,-23.82657,-45.34164,winter
+260,8,Sanhaço-de-encontro-azul,2026-07-08 18:45:02.344227,-23.82657,-45.34164,winter
+261,10,Ferro-velho,2026-07-08 18:45:10.332304,-23.82657,-45.34164,winter
+262,14,Tiê-de-topete,2026-07-08 18:45:38.268246,-23.82657,-45.34164,winter
+263,32,Bem-te-vi-pirata,2026-07-08 18:46:27.139987,-23.82657,-45.34164,winter
+264,62,Beija flor fronte violeta,2026-07-08 18:47:16.408231,-23.82657,-45.34164,winter
+265,1,Saí-azul,2026-07-10 18:35:06.142748,,,winter
+266,2,Saí-verde,2026-07-10 18:35:09.854907,,,winter
+267,3,Saíra-sete-cores,2026-07-10 18:35:11.740613,,,winter
+268,5,Saíra-militar,2026-07-10 18:35:14.435321,,,winter
+269,10,Ferro-velho,2026-07-10 18:35:18.578817,,,winter
+270,26,Tiriba-de-testa-vermelha,2026-07-10 18:35:33.252839,,,winter
+271,1,Saí-azul,2026-07-11 15:13:16.46061,-23.826601,-45.34175,winter
+272,2,Saí-verde,2026-07-11 15:13:18.614119,-23.826601,-45.34175,winter
+273,3,Saíra-sete-cores,2026-07-11 15:13:20.90546,-23.826601,-45.34175,winter
+274,5,Saíra-militar,2026-07-11 15:14:50.37775,-23.826601,-45.34175,winter
+275,10,Ferro-velho,2026-07-11 15:14:53.978521,-23.826601,-45.34175,winter
+276,14,Tiê-de-topete,2026-07-11 15:15:26.062872,-23.826601,-45.34175,winter
+277,32,Bem-te-vi-pirata,2026-07-11 15:15:57.204428,-23.826601,-45.34175,winter
+278,17,Sabiá-una,2026-07-11 15:16:24.780472,-23.826601,-45.34175,winter
+279,62,Beija flor fronte violeta,2026-07-11 15:17:20.669731,-23.826601,-45.34175,winter
+280,60,Beija flor rajado,2026-07-11 15:18:13.258109,-23.826601,-45.34175,winter
+281,20,Sabiá-barranco,2026-07-11 15:19:45.114522,-23.826601,-45.34175,winter
+282,66,Beija flor tesoura,2026-07-11 15:22:51.069764,-23.826601,-45.34175,winter
+283,12,Tiê-preto,2026-07-11 15:24:40.222608,-23.826601,-45.34175,winter
+284,19,Sabiá-poca,2026-07-12 01:17:40.607611,-23.675335,-45.44242,winter
+285,5,Saíra-militar,2026-07-12 01:17:53.50571,-23.675335,-45.44242,winter
+286,3,Saíra-sete-cores,2026-07-12 01:18:02.431678,-23.675335,-45.44242,winter
+287,24,Surucuá-variado,2026-07-12 01:18:21.71434,-23.675335,-45.44242,winter
+288,62,Beija flor fronte violeta,2026-07-12 01:18:59.039929,-23.675335,-45.44242,winter
+289,62,Beija flor fronte violeta,2026-07-21 13:55:16.261182,,,winter
+290,62,Beija flor fronte violeta,2026-07-21 15:31:12.80136,,,winter
+291,1,Saí-azul,2026-07-21 15:32:01.046207,,,winter
+292,35,Cambacica,2026-07-21 15:32:59.049744,,,winter
+293,65,Beija flor preto,2026-07-21 15:33:58.187128,,,winter
+294,15,Catirumbava,2026-07-21 15:37:29.316349,,,winter
+295,3,Saíra-sete-cores,2026-07-23 17:41:53.718794,-23.826593,-45.341766,winter
+296,15,Catirumbava,2026-07-23 17:43:05.337582,-23.826593,-45.341766,winter
+297,1,Saí-azul,2026-07-23 17:43:20.613023,-23.826593,-45.341766,winter
+298,5,Saíra-militar,2026-07-25 16:57:45.610484,-23.826612,-45.341736,winter
+299,3,Saíra-sete-cores,2026-07-25 16:57:49.459948,-23.826612,-45.341736,winter
+300,1,Saí-azul,2026-07-25 16:57:53.220523,-23.826612,-45.341736,winter
+301,10,Ferro-velho,2026-07-25 16:58:02.782193,-23.826612,-45.341736,winter
+302,14,Tiê-de-topete,2026-07-25 16:58:12.039877,-23.826612,-45.341736,winter
+303,35,Cambacica,2026-07-25 16:58:29.130736,-23.826612,-45.341736,winter
+304,31,Bem-te-vi,2026-07-25 16:58:39.136027,-23.826612,-45.341736,winter
+305,60,Beija flor rajado,2026-07-25 16:59:00.057368,-23.826612,-45.341736,winter
+306,62,Beija flor fronte violeta,2026-07-25 16:59:17.575879,-23.826612,-45.341736,winter
+307,8,Sanhaço-de-encontro-azul,2026-07-25 17:07:43.887563,-23.826612,-45.341736,winter
+308,17,Sabiá-una,2026-07-25 17:08:48.122521,-23.826612,-45.341736,winter
+309,18,Sabiá-coleira,2026-07-25 17:09:49.792745,-23.826612,-45.341736,winter
+310,1,Saí-azul,2026-07-29 13:18:29.435889,,,winter
+311,0,PDF Generated: 1 birds (Saí-azul),2026-07-29 13:18:33.882566,,,winter
+312,3,Saíra-sete-cores,2026-07-29 17:25:43.911001,,,winter
+313,2,Saí-verde,2026-07-29 17:27:06.788351,,,winter
+314,1,Saí-azul,2026-08-05 14:52:13.400706,-23.826654,-45.341618,winter
+315,2,Saí-verde,2026-08-05 14:52:15.667862,-23.826654,-45.341618,winter
+316,3,Saíra-sete-cores,2026-08-05 14:52:18.750116,-23.826654,-45.341618,winter
+317,10,Ferro-velho,2026-08-05 14:52:24.732844,-23.826654,-45.341618,winter
+318,12,Tiê-preto,2026-08-05 14:52:28.889481,-23.826654,-45.341618,winter
+319,14,Tiê-de-topete,2026-08-05 14:52:37.941486,-23.826654,-45.341618,winter
+320,25,Surucuá-de-barriga-amarela,2026-08-05 14:52:48.963456,-23.826654,-45.341618,winter
+321,31,Bem-te-vi,2026-08-05 14:53:01.400088,-23.826654,-45.341618,winter
+322,62,Beija flor fronte violeta,2026-08-05 14:53:31.349564,-23.826654,-45.341618,winter
+323,67,Beija flor de frente preta,2026-08-05 14:53:51.470563,-23.826654,-45.341618,winter
+324,19,Sabiá-poca,2026-08-05 14:55:34.326589,-23.826654,-45.341618,winter
+325,65,Beija flor preto,2026-08-05 14:56:24.813571,-23.826654,-45.341618,winter
+326,64,Beija flor cinza,2026-08-05 14:56:53.990001,-23.826654,-45.341618,winter
+327,60,Beija flor rajado,2026-08-05 14:56:58.429098,-23.826654,-45.341618,winter
+328,20,Sabiá-barranco,2026-08-05 14:57:28.577481,-23.826654,-45.341618,winter
+329,0,"PDF Generated: 15 birds (Saí-azul, Saí-verde, Saíra-sete-cores, Ferro-velho, Tiê-preto, Tiê-de-topete, Sabiá-poca, Sabiá-barranco, Surucuá-de-barriga-amarela, Bem-te-vi, Beija flor rajado, Beija flor fronte violeta, Beija flor cinza, Beija flor preto, Beija flor de frente preta)",2026-08-05 14:58:01.042484,-23.826654,-45.341618,winter
+330,52,Juruviara,2026-08-11 22:21:39.918619,,,winter
+331,4,Capitão-de-saíra,2026-08-11 22:22:19.543911,,,winter
+332,38,Chorozinho-de-asa-vermelha,2026-08-11 23:11:22.641149,,,winter
+333,4,Capitão-de-saíra,2026-08-12 16:49:23.834333,,,winter
+334,7,Sanhaço-de-encontro-amarelo,2026-08-15 10:45:33.041139,,,winter
+335,40,João velho,2026-08-21 00:09:34.030976,,,winter
+336,26,Tiriba-de-testa-vermelha,2026-08-21 00:09:44.667898,,,winter
+337,35,Cambacica,2026-08-21 13:17:14.536882,-23.826708,-45.342377,winter
+338,39,Pica-pau-rei,2026-08-21 13:17:50.329044,-23.826708,-45.342377,winter
+339,40,João velho,2026-08-21 13:18:27.172079,-23.826708,-45.342377,winter
+340,43,Martim-pescador,2026-08-21 13:19:00.207939,-23.826708,-45.342377,winter
+341,44,Macuco,2026-08-21 13:19:09.638416,-23.826708,-45.342377,winter
+342,70,Tucano bico verde,2026-08-21 13:19:21.451614,-23.826708,-45.342377,winter
+343,63,Beija flor rubi,2026-08-21 13:19:52.008191,-23.826708,-45.342377,winter
+344,62,Beija flor fronte violeta,2026-08-21 13:20:14.165669,-23.826708,-45.342377,winter
+345,60,Beija flor rajado,2026-08-21 13:20:42.039754,-23.826708,-45.342377,winter
+346,61,Beija flor balança rabo do bico torto,2026-08-21 13:21:11.926042,-23.826708,-45.342377,winter
+347,2,Saí-verde,2026-08-21 13:21:24.548855,-23.826708,-45.342377,winter
+348,1,Saí-azul,2026-08-21 13:21:26.720042,-23.826708,-45.342377,winter
+349,3,Saíra-sete-cores,2026-08-21 13:21:33.625885,-23.826708,-45.342377,winter
+350,5,Saíra-militar,2026-08-21 13:21:36.98874,-23.826708,-45.342377,winter
+351,8,Sanhaço-de-encontro-azul,2026-08-21 13:21:43.690922,-23.826708,-45.342377,winter
+352,7,Sanhaço-de-encontro-amarelo,2026-08-21 13:21:47.86508,-23.826708,-45.342377,winter
+353,10,Ferro-velho,2026-08-21 13:21:51.271241,-23.826708,-45.342377,winter
+354,9,Sanhaço-cinzento,2026-08-21 13:21:54.759511,-23.826708,-45.342377,winter
+355,11,Tiê-sangue,2026-08-21 13:21:57.406689,-23.826708,-45.342377,winter
+356,12,Tiê-preto,2026-08-21 13:22:01.433204,-23.826708,-45.342377,winter
+357,13,Tiê-de-bando,2026-08-21 13:22:05.758803,-23.826708,-45.342377,winter
+358,51,Araponga,2026-08-21 13:22:27.997772,-23.826708,-45.342377,winter
+359,65,Beija flor preto,2026-08-21 13:22:44.063639,-23.826708,-45.342377,winter
+360,68,Beija flor topetinho verde,2026-08-21 13:22:53.441481,-23.826708,-45.342377,winter
+361,66,Beija flor tesoura,2026-08-21 13:23:02.435517,-23.826708,-45.342377,winter
+362,67,Beija flor de frente preta,2026-08-21 13:23:07.831712,-23.826708,-45.342377,winter
+363,47,Rolinha,2026-08-21 13:23:34.668439,-23.826708,-45.342377,winter
+364,48,Juriti,2026-08-21 13:24:38.10992,-23.826708,-45.342377,winter
+365,45,Jacutinga,2026-08-21 13:24:58.53269,-23.826708,-45.342377,winter
+366,37,Tico-tico,2026-08-21 13:25:29.546401,-23.826708,-45.342377,winter
+367,28,Papagaio-moleiro,2026-08-21 13:25:37.601568,-23.826708,-45.342377,winter
+368,31,Bem-te-vi,2026-08-21 13:25:58.948785,-23.826708,-45.342377,winter
+369,1,Saí-azul,2026-08-22 12:13:47.261575,,,winter
+370,11,Tiê-sangue,2026-08-23 12:56:16.267487,,,winter
+371,4,Capitão-de-saíra,2026-08-23 13:00:41.183155,-23.198462,-45.896557,winter
+372,8,Sanhaço-de-encontro-azul,2026-08-23 13:00:48.010187,-23.198462,-45.896557,winter
+373,1,Saí-azul,2026-08-23 15:27:02.38092,,,winter
+374,2,Saí-verde,2026-08-23 15:27:06.404468,,,winter
+375,3,Saíra-sete-cores,2026-08-23 15:27:08.533322,,,winter
+376,5,Saíra-militar,2026-08-23 15:27:12.449908,,,winter
+377,6,Sanhaço-do-coqueiro,2026-08-23 15:27:14.906611,,,winter
+378,7,Sanhaço-de-encontro-amarelo,2026-08-23 15:27:22.446421,,,winter
+379,8,Sanhaço-de-encontro-azul,2026-08-23 15:27:23.922065,,,winter
+380,10,Ferro-velho,2026-08-23 15:27:27.081356,,,winter
+381,9,Sanhaço-cinzento,2026-08-23 15:27:28.622165,,,winter
+382,11,Tiê-sangue,2026-08-23 15:27:36.027713,,,winter
+383,12,Tiê-preto,2026-08-23 15:27:37.633678,,,winter
+384,13,Tiê-de-bando,2026-08-23 15:27:40.773478,,,winter
+385,14,Tiê-de-topete,2026-08-23 15:27:43.834526,,,winter
+386,15,Catirumbava,2026-08-23 15:27:48.203897,,,winter
+387,16,Sabiá-laranjeira,2026-08-23 15:27:51.985237,,,winter
+388,21,Tangará,2026-08-23 15:28:03.592965,,,winter
+389,24,Surucuá-variado,2026-08-23 15:28:11.05299,,,winter
+390,23,Alma-de-gato,2026-08-23 15:28:16.42892,,,winter
+391,25,Surucuá-de-barriga-amarela,2026-08-23 15:28:25.995377,,,winter
+392,26,Tiriba-de-testa-vermelha,2026-08-23 15:28:31.287578,,,winter
+393,31,Bem-te-vi,2026-08-23 15:28:40.670324,,,winter
+394,33,Bentevizinho-de-penacho-vermelho,2026-08-23 15:28:45.565212,,,winter
+395,35,Cambacica,2026-08-23 15:28:52.992784,,,winter
+396,37,Tico-tico,2026-08-23 15:28:58.112258,,,winter
+397,40,João velho,2026-08-23 15:29:06.584807,,,winter
+398,39,Pica-pau-rei,2026-08-23 15:29:13.810144,,,winter
+399,45,Jacutinga,2026-08-23 15:29:23.15678,,,winter
+400,57,Gavião carijó,2026-08-23 15:29:56.640209,,,winter
+401,60,Beija flor rajado,2026-08-23 15:30:19.081317,,,winter
+402,62,Beija flor fronte violeta,2026-08-23 15:30:34.412118,,,winter
+403,63,Beija flor rubi,2026-08-23 15:30:40.809568,,,winter
+404,66,Beija flor tesoura,2026-08-23 15:30:55.868433,,,winter
+405,68,Beija flor topetinho verde,2026-08-23 15:31:13.844345,,,winter
+406,8,Sanhaço-de-encontro-azul,2026-08-25 12:02:03.855897,,,winter
+407,0,PDF Generated: 1 birds (Sanhaço-de-encontro-azul),2026-08-25 12:02:11.306511,,,winter
+408,5,Saíra-militar,2026-08-25 12:45:50.192156,,,winter
+409,0,PDF Generated: 1 birds (Saíra-militar),2026-08-25 12:46:05.489758,,,winter
+410,0,PDF Generated: 1 birds (Saíra-militar),2026-08-25 12:46:12.643885,,,winter
+411,40,João velho,2026-08-25 19:18:49.811349,-19.525705,-40.63688,winter
+412,62,Beija flor fronte violeta,2026-08-25 19:19:36.897082,-19.525705,-40.63688,winter
+413,2,Saí-verde,2026-08-25 19:19:41.569651,-19.525705,-40.63688,winter
+414,3,Saíra-sete-cores,2026-08-26 00:10:48.645126,,,winter
+415,11,Tiê-sangue,2026-08-26 22:55:55.756387,-23.539265,-46.901386,winter
+416,2,Saí-verde,2026-08-27 12:57:16.484986,-23.14401,-44.168774,winter
+417,3,Saíra-sete-cores,2026-08-27 12:57:20.578629,-23.14401,-44.168774,winter
+418,4,Capitão-de-saíra,2026-08-27 13:10:22.597286,-23.144121,-44.169014,winter
+419,26,Tiriba-de-testa-vermelha,2026-08-27 13:10:30.353908,-23.144121,-44.169014,winter
+420,2,Saí-verde,2026-08-29 13:24:31.434709,-23.826801,-45.341988,winter
+421,1,Saí-azul,2026-08-30 14:49:06.335206,-23.820847,-45.374954,winter
+422,35,Cambacica,2026-08-30 16:00:59.016918,-23.468674,-45.0645,winter
+423,1,Saí-azul,2026-08-31 17:33:26.557042,-23.826674,-45.341434,winter
+424,2,Saí-verde,2026-08-31 17:33:33.85504,-23.826674,-45.341434,winter
+425,10,Ferro-velho,2026-09-01 19:02:49.512149,,,spring
+426,38,Chorozinho-de-asa-vermelha,2026-09-01 19:06:09.626596,,,spring
+427,35,Cambacica,2026-09-01 19:12:26.683807,-22.73265,-46.89471,spring
+428,53,Pitiguari,2026-09-01 20:54:26.734656,,,spring
+429,63,Beija flor rubi,2026-09-07 15:48:19.78085,-23.826658,-45.341583,spring
+430,62,Beija flor fronte violeta,2026-09-07 15:48:38.32802,-23.826658,-45.341583,spring
+431,2,Saí-verde,2026-09-07 15:49:00.434655,-23.826658,-45.341583,spring
+432,3,Saíra-sete-cores,2026-09-07 15:49:12.094012,-23.826658,-45.341583,spring
+433,35,Cambacica,2026-09-07 15:50:02.41273,-23.826658,-45.341583,spring
+434,14,Tiê-de-topete,2026-09-07 15:52:58.971607,-23.826658,-45.341583,spring
+435,1,Saí-azul,2026-09-07 15:53:34.713709,-23.826658,-45.341583,spring
+436,5,Saíra-militar,2026-09-09 16:47:01.513129,-22.836246,-43.25532,spring
+437,10,Ferro-velho,2026-09-09 16:47:04.565212,-22.836246,-43.25532,spring
+438,11,Tiê-sangue,2026-09-11 18:21:46.602046,,,spring
+439,1,Saí-azul,2026-09-19 18:41:17.19357,-23.826677,-45.34172,spring
+440,2,Saí-verde,2026-09-19 18:41:21.428392,-23.826677,-45.34172,spring
+441,3,Saíra-sete-cores,2026-09-19 18:41:25.722277,-23.826677,-45.34172,spring
+442,5,Saíra-militar,2026-09-19 18:41:29.333052,-23.826677,-45.34172,spring
+443,6,Sanhaço-do-coqueiro,2026-09-19 18:41:31.325768,-23.826677,-45.34172,spring
+444,7,Sanhaço-de-encontro-amarelo,2026-09-19 18:41:35.958372,-23.826677,-45.34172,spring
+445,8,Sanhaço-de-encontro-azul,2026-09-19 18:41:37.758993,-23.826677,-45.34172,spring
+446,9,Sanhaço-cinzento,2026-09-19 18:41:42.056441,-23.826677,-45.34172,spring
+447,10,Ferro-velho,2026-09-19 18:41:45.962802,-23.826677,-45.34172,spring
+448,14,Tiê-de-topete,2026-09-19 18:41:54.625519,-23.826677,-45.34172,spring
+449,15,Catirumbava,2026-09-19 18:42:04.027462,-23.826677,-45.34172,spring
+450,26,Tiriba-de-testa-vermelha,2026-09-19 18:42:20.532385,-23.826677,-45.34172,spring
+451,27,Periquito-rico,2026-09-19 18:42:35.872233,-23.826677,-45.34172,spring
+452,35,Cambacica,2026-09-19 18:43:02.325427,-23.826677,-45.34172,spring
+453,2,Saí-verde,2026-09-27 15:50:02.57405,,,spring
